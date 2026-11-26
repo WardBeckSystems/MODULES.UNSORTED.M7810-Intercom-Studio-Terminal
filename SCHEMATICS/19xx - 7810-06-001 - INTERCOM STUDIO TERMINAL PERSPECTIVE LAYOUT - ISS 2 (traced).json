@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/UNSORTED/M7810/SCHEMATICS/19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/c34ce09eb7fb1a4f.svg",
+ "sheet": {
+  "number": "B 7810-06-001",
+  "title": "M7810 / INTERCOM STUDIO TERMINAL / PERSPECTIVE LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.4, 0.0, 426.2, 287.1],
+ "outlines": {
+  "line": {"rings": 1031, "straight": {"n": 12104, "mm": 16322.9}, "curved": {"n": 1493, "mm": 1578.2}},
+  "text": {"rings": 169, "straight": {"n": 1042, "mm": 965.0}, "curved": {"n": 361, "mm": 420.3}}
+ },
+ "circles": [
+  {"c": [396.2, 23.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [407.8, 18.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [260.2, 226.9], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [270.2, 226.8], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [210.8, 181.2], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [253.0, 171.5, 255.4, 191.5], "w": 2.4, "h": 20.0, "from": "ring"},
+  {"mm": [268.6, 170.3, 271.0, 190.6], "w": 2.4, "h": 20.3, "from": "ring"},
+  {"mm": [209.2, 178.1, 212.4, 182.9], "w": 3.2, "h": 4.7, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 7810-06-001, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 3–426 mm across, 0–287 mm up",
+  "- **Outlines:** line 1,031 rings, 12,104 straight (16,323 mm) / 1,493 curved (1,578 mm); text 169 rings, 1,042 straight (965 mm) / 361 curved (420 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 1.6 @ (396.2, 23.3), r 1.6 @ (407.8, 18.0), r 1.4 @ (260.2, 226.9), r 1.4 @ (270.2, 226.8)",
+  "- **Closed boxes:** 3"
+ ]
+}
