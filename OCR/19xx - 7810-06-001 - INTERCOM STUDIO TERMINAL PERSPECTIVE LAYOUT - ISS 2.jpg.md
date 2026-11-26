@@ -30,7 +30,7 @@ M7810 intercom studio terminal perspective layout Title block at bottom left rea
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 1.6 @ (396.2, 23.3), r 1.6 @ (407.8, 18.0), r 1.4 @ (260.2, 226.9), r 1.4 @ (270.2, 226.8)
 - **Closed boxes:** 3
 
-Every curve, box, word and wire group: [19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207810-06-001%20-%20INTERCOM%20STUDIO%20TERMINAL%20PERSPECTIVE%20LAYOUT%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207810-06-001%20-%20INTERCOM%20STUDIO%20TERMINAL%20PERSPECTIVE%20LAYOUT%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2 (traced).dxf`).
 
 ## Full text
 

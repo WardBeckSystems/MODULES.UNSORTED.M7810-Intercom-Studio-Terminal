@@ -32,7 +32,7 @@ M7810 intercom studio terminal functional Title block at bottom left reading sid
 - **Closed boxes:** 32
 - **Wiring (first pass):** 222 connected wire groups from 1,125 runs
 
-Every curve, box, word and wire group: [19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207810-01-001%20-%20INTERCOM%20STUDIO%20TERMINAL%20FUNCTIONAL%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207810-01-001%20-%20INTERCOM%20STUDIO%20TERMINAL%20FUNCTIONAL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2 (traced).dxf`).
 
 ## Full text
 
