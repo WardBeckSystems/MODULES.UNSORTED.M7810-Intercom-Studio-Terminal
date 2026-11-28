@@ -1,5 +1,5 @@
 # 19xx - 7810-06-001 - INTERCOM STUDIO TERMINAL PERSPECTIVE LAYOUT - ISS 2.jpg
-Wiki page: [M7810](../../../../PAGES/M7810.md)
+Wiki page: [M7810](../)
 
 
 - **Year:** unknown (title block (read by eye))

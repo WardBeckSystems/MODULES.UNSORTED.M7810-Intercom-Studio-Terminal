@@ -1,5 +1,5 @@
 # 19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2.jpg
-Wiki page: [M7810](../../../../PAGES/M7810.md)
+Wiki page: [M7810](../)
 
 
 - **Year:** unknown (title block (read by eye))

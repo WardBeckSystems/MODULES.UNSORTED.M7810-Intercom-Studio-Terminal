@@ -1,6 +1,6 @@
 # M7810 Intercom Studio Terminal · Communication
 
-Ward-Beck Systems M7810. Wiki page: [M7810 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7810.html)
+Ward-Beck Systems M7810. Wiki page: [M7810 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7810-Intercom-Studio-Terminal/)
 
 | Folder | What is in it | Files |
 |---|---|---|
